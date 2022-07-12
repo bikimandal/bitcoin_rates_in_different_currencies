@@ -1,9 +1,4 @@
-# api = "http://rest.coinapi.io/v1/exchangerate/BTC"486DDD9F-1CF9-4C48-9A7E-81D036C5A0B3
-
-# appi_url = http://rest.coinapi.io/v1/exchangerate/BTC
-
-
-import requests
+mport requests
 
 import tkinter as tk
 
